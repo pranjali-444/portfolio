@@ -14,7 +14,7 @@ Welcome to my portfolio! I'm a passionate MERN Stack developer currently pursuin
 ## 📦 Getting Started
 To run this project locally:
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/pranjali-444/portfolio.git
 cd portfolio
 npm install
 npm start
